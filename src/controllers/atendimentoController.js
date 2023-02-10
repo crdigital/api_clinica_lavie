@@ -45,7 +45,7 @@ module.exports = {
             res
                 .status(400)
                 .json({
-                    error: `Erro na requisição. ${error}`,
+                    error: `Erro na requisição.`,
                 });
         }
     },
