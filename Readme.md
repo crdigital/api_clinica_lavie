@@ -3,7 +3,7 @@
 # Projeto API Clínica Lavie.
 
 ## 📝 ***Sobre***
-O **Projeto API Clínica Lavie** foi desenvolvido com o intuito de colocar em prática parte de conteúdo aprendido pelo curso oferecido pela **Gama Academy**.
+O **Projeto API Clínica Lavie** foi desenvolvido com o intuito de colocar em prática parte de conteúdo aprendido pelo curso oferecido pela **Gama Academy Experience**, conhecido como Gama XP, em sua versão 47.
 
 ## 🚀 ***Técnologias Utilizadas***
 Este projeto foi desenvolvido utilizando as seguintes técnologias:
@@ -33,4 +33,4 @@ Abaixo é possivel observar o Scrip de SQL onde é criado para o atendimento, li
 ## 📥 ***Documentação da API***
 A documentação da API pode ser visualizada no link abaixo:
 
-http://crdigital.github.com/clinica_lavie
+http://crdigital.github.com/api_clinica_lavie
