@@ -33,4 +33,4 @@ Abaixo é possivel observar o Scrip de SQL onde é criado para o atendimento, li
 ## 📥 ***Documentação da API***
 A documentação da API pode ser visualizada no link abaixo:
 
-http://crdigital.github.com/api_clinica_lavie
+ https://crdigital.github.io/api_clinica_lavie/
