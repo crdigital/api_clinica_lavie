@@ -15,11 +15,11 @@ Essas tecnologias agrupadas possibilitaram a construção de uma API que
 contém os endpoints responsáveis por executar o CRUD para cada entidade 
 da base de dados da clinica La Vie.
 
- ##  Diagrama esquemático da base de dados.
+##  Organograma e Entidades do Projeto.
 
-Abaixo é possivel observar o Diagrama esquemático desenvolvido para a realização da base de dados:
+Abaixo é possivel observar o organograma e Entidades do projeto, para a implementação da base de dados:
 
-<img src="img/diagrama_esquematico_database_clinica_lavie.png">
+<img src="img/organograma.jpeg">
 
 ## Scrip SQL.
 
