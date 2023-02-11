@@ -35,3 +35,5 @@ Abaixo é possivel observar o Scrip de SQL onde é criado para o atendimento, li
 A documentação da API pode ser visualizada no link abaixo: 
  
  %md <a href="https://crdigital.github.io/api_clinica_lavie/" target="_blank">Documentação API Clínica La Vie</a>
+ 
+ [Opens in new tab](https://external.ink?to=/placeholder.com)
