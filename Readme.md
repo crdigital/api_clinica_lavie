@@ -5,7 +5,7 @@
 ## 📝 ***Sobre***
 O **Projeto API Clínica Lavie** foi desenvolvido com o intuito de colocar em prática parte de conteúdo aprendido pelo curso oferecido pela **Gama Academy Experience**, conhecido como Gama XP, em sua versão 47.
 
-## 🚀 ***Técnologias Utilizadas***
+## 🚀 ***Tecnologias Utilizadas***
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Node.js;
 - Express;
