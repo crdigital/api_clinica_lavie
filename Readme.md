@@ -24,6 +24,7 @@ Abaixo é possivel observar o Diagrama esquemático desenvolvido para a realiza�
 ## Scrip SQL.
 
 Abaixo é possivel observar o Scrip de SQL onde é criado a base de dados, a solicitação para utilizar a base de dados criada e a criação de tabelas de para o cadastro de psicologos e pacientes:
+
 <img src="img/script_sql1.png">
 
 Abaixo é possivel observar o Scrip de SQL onde é criado para o atendimento, ligando o paciente ao psicologo:
