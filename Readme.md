@@ -15,9 +15,9 @@ Essas tecnologias agrupadas possibilitaram a construção de uma API que
 contém os endpoints responsáveis por executar o CRUD para cada entidade 
 da base de dados da clinica La Vie.
 
-##  Organograma e Entidades do Projeto.
+##  Organograma com Entidades e Dados do Projeto.
 
-Abaixo é possivel observar o organograma e Entidades do projeto, para a implementação da base de dados:
+Abaixo é possivel observar o organograma com Entidades e dados do projeto, para a implementação da base de dados:
 
 <img src="img/organograma.jpeg">
 
